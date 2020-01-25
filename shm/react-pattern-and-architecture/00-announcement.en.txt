@@ -1,0 +1,14 @@
+we first talked about the history of JS
+
+then effective JS
+
+then modern JS
+
+then functional programming JS
+
+and it is time to know a little about React
+It is not an advanced course, but more than just basic / common knowledge
+
+As always you are free to comment
+
+most of the posts goes on http://jsfun.ir but not all

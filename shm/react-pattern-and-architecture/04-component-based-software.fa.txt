@@ -1,0 +1,50 @@
+اولین کانسپ که باید بفهمیم ش
+Component Based Development (CBD)
+هست که در اون با تقسیم کردن وظایف کار برنامه به واحد ها محزا
+سپس ترکیب مجدد اونها به نتیحه ای که می خوام می رسیم
+
+هدف این مدل دستیابی به اینها هست
+
+Separation of Concerns (SoC)
+هر قسمت از کد می بایست یک مسله / مشکل مشخص رو بررسی / حل / مدیریت کنه
+
+ممکنه در سطح کد باشه مثلا ۳ فانکشن محزا
+add() => addition
+sub() => subtraction
+mul() => multiplication
+یا در سطح تکنولوژی باشه
+HTML => HyperText Markup Language
+CSS => Cascading Style Sheet
+JS => JavaScript => Dynamic DOM Manipulator
+
+سپس تریب اون ۳ فانکشن مثلا میشه به برنامه ماشین حساب نوشت
+calculator
+و با ترکیب اون ۳ تکنولوژی میشه یه پیج ساخت
+page
+
+Substitutability
+جدا بودن فانکشها و یا کلاس ها کمک میکنه اون ها رو راحتر جایگزین کنیم
+
+Extensibility
+همچنین راحت تر به مجموعه فانشکن / کلاس که داریم فانکشن / کلاس جدید اضافه کنیم
+
+Reusability
+یه بار بنوسیسم و چندبار دیگه / چند جای دیگه استفاده کنیم
+البته
+چند بار دیگه
+با
+چند جای دیگه
+می تونه متفاوت باشه
+
+Testability
+هر فانکشن / کلاس بتونه تست بشه
+که در قسمت
+stateful / stateless component
+بیشتر منوجه میشم
+
+بریم برای پست بعدی
+
+https://en.wikipedia.org/wiki/Component-based_software_engineering
+https://en.wikipedia.org/wiki/Separation_of_concerns#HTML,_CSS,_JavaScript
+https://en.wikipedia.org/wiki/Reusability
+https://en.wikipedia.org/wiki/React_(web_framework)

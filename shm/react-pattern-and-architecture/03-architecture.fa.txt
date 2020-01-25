@@ -1,0 +1,50 @@
+ما به اندازه ی درک مون از مسله / مشکل می تونیم راه حل بدیم
+اون مقیاس و چالشی که فیسبوک با اون مواجه هست
+قابل مقایسه با دلایل پیاده سازی جی کوری نیست
+
+درسته هر دو لایبرری هستند
+دانه ففل سیاه و خال مه رویان سیاه
+
+اما نقطه ی هدف شون خیلی فرق داره
+هر دو جان سوزند اما این کجا و آن کحا
+
+انگیزه و هدف جی کوزی از ابتدا
+Cross-Browsers compatibility
+بود و برای همین
+IE-4+
+رو پوشش میده که خود مایکروسافت با اون عظمت کاری نکرد براش
+
+اما ریاکت
+Single Page Application Scalability
+بود و رفت سراغ
+Component Based Model
+یا همون
+modular systems
+که انعطاف و تغییر پذیری بالاتری رو داشته باشیم
+
+JSX = JavaScript Syntax Extension
+or Native browser's JS API using XML
+XML = Extensible Markup Language
+همچنین این فیجر قبلا ایده پردازی و پیاده سازی شده بود - مال ریاکت نیست
+اما ریاکت اون رو مشهور کرد
+https://facebook.github.io/jsx/
+
+VDOM = Virtual Document Object Model
+یه لایبری مستقل هست و ریاکت اون وارد بازی کرد - مال خود ریاکت نیست
+و میشه توی هر پروژه فرانت واردش کرد
+https://github.com/Matt-Esch/virtual-dom
+
+FP = Functional Programming
+چیزی که با جاواسکریپت جدید رشد خوبی داشت
+تکنیک ها و الگوهای فانکشال پروگرمینگ بود
+و ریاکت این رو هم بیشتر از دیگران پوشش داده
+
+پس برای حفظ
+Cross-Browsers compatibility
+همچنان به جی کوری تا خدودی نیاز داریم
+اما
+برای داشتن
+Single Page Application Scalability
+می ریم سراغ ریاکت
+
+بریم برای بست بعدی 
