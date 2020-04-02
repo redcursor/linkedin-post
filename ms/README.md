@@ -1,2 +1,0 @@
-# Mahsa Sirous linkedin-post
-
