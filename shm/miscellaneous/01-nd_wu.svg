@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="650" font-family="Montserrat">
+  <rect x="0" y="0" width="500" height="650" fill="#0cf"></rect>
+  
+  <g transform="translate(0,50)"  font-family="Ubuntu" text-anchor="middle" fill="#fff"  font-weight="bold" font-size="30" style="text-shadow: 2px 2px 4px #000;">
+    <text x="250" y="0" >Network Diagnostic</text>
+    <text x="250" y="30" font-size="18" >(Windows users)</text>
+  </g>
+  
+  <g transform="translate(0,150)" font-family="monospace" font-weight="bold" text-anchor="start" fill="#000" font-size="20" style="text-shadow: 2px 2px 4px #fff;">
+    <text x="50" y="0" >:: clear DNS cache</text>
+    <text x="50" y="30" >ipconfig /flushdns</text>
+    
+    <text x="50" y="100" >:: check global NS propagation</text>
+    <text x="50" y="130" >nslookup domain.com</text>
+    
+    <text x="50" y="200" >:: check DNS resolution</text>
+    <text x="50" y="230" >ping domain.com</text>
+    
+    <text x="50" y="300" >:: check if server is up and running</text>
+    <text x="50" y="330" >ping server-ip</text>
+    
+    <text x="50" y="400" >:: check routing</text>
+    <text x="50" y="430" >tracert -d server-ip</text>
+  </g>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="0" refY="3.5" orient="auto">
+      <polygon fill="#000" points="0 0, 5 3.5, 0 7" />
+    </marker>
+    <marker id="diamond" markerWidth="12" markerHeight="12" refX="6" refY="6" >
+      <circle fill="#000" cx="6" cy="6" r="2" stroke="context-stroke" stroke-width="2"/>
+    </marker>
+  </defs>
+
+  <text x="10" y="645" font-size="10"  fill="#000" font-weight="bold">author: Shakiba Moshiri. Date: 2020-04-03</text>
+<!--<path fill="none" stroke="#000" stroke-width="3" d="M60,50 v140 q0" marker-start="url(#diamond)" marker-end="url(#arrowhead)"></path>-->
+</svg>
