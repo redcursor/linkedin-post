@@ -1,0 +1,44 @@
+سعی می کنیم مرتب و طبقه بندی شده بریم جلو
+
++ History
+تاریخ و ۳ نصل ورژن کنترل ها می فهمیم
+1. local only, single file version controls
+2. centralized, concurrent, network based, multifile version controls
+3. decentralized, distributed, working tree version controls
+
++ Architecture
+معماری خود اونها
+working tree
+caching / indexing
+repository
+etc
+
++ Protocols
+پروتوکل ها
+FS (File System)
+HTTP (HyperText Transport Protocol)
+SSH (Secure Shell)
+Custom application based (git://, darcs://, etc)
+etc
+
++ Workflows
+نجویه استتفاده
+Centralized Workflow (using shared repository
+Integration-Manager Workflow (using blessed repository)
+etc
+
++ Git Servers
+گیت هاب و گیت لب واقعا چطوری کار می کنن؟
+
+
++ Web Interfaces
+اینترفیس ها برای بررسی کد و مشاهده ریپازیتوری ها
+
+Team work
+برای کار تیمی یهتر هست چطور از ورژن کنترل ها استفاده کنیم
+
++ Repository Monitoring
+مانیتور کردن مرج ها ، پوش ها ، تست های که ران میشن به صورت
+real-time
+
+بریم برای پست بعدی

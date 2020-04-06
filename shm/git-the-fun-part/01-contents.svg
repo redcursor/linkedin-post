@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="650" font-family="Montserrat">
+  <rect x="0" y="0" width="500" height="650" fill="#000"></rect>
+  
+  <g transform="translate(0,100)"  font-family="Ubuntu" text-anchor="middle" fill="#fff"  font-weight="bold" font-size="30" style="text-shadow: 2px 2px 4px #f00;">
+    <text x="250" y="0" >Git, the fun part</text>
+    <text x="250" y="30" font-size="18" >if you follow, you will learn:</text>
+  </g>
+  
+  <g transform="translate(0,200)" font-family="ubuntu" font-weight="bold" text-anchor="middle" fill="#ff0" font-size="30" style="text-shadow: 2px 2px 4px #000;">
+    <text x="250" y="0" >History</text>
+    <text x="250" y="50" >Architecture</text>
+    <text x="250" y="100" >Protocols</text>
+    <text x="250" y="150" >Workflows</text>
+    <text x="250" y="200" >Git Servers</text>
+    <text x="250" y="250" >Web Interfaces</text>
+    <text x="250" y="300" >Team work</text>
+    <text x="250" y="350" >Repository Monitoring</text>
+  </g>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="0" refY="3.5" orient="auto">
+      <polygon fill="#000" points="0 0, 5 3.5, 0 7" />
+    </marker>
+    <marker id="diamond" markerWidth="12" markerHeight="12" refX="6" refY="6" >
+      <circle fill="#000" cx="6" cy="6" r="2" stroke="context-stroke" stroke-width="2"/>
+    </marker>
+  </defs>
+
+  <text x="10" y="645" font-size="10"  fill="#000" font-weight="bold">author: Shakiba Moshiri. Date: 2020-04-03</text>
+<!--<path fill="none" stroke="#000" stroke-width="3" d="M60,50 v140 q0" marker-start="url(#diamond)" marker-end="url(#arrowhead)"></path>-->
+</svg>
