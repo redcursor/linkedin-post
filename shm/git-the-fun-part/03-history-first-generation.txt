@@ -1,0 +1,40 @@
+بعد از بهیه شدن کامپیوتر ها و داشتن دیسک برای ذخیره فایل ها
+اولین نسل ورژن کنترل ها شکل گرفت
+توجه کنید هنوز خبری از اینترنت نیست
+
+First generation (about 197X - 198X)
++ localized,
++ single file
+
++ localized,
+یعنی کاربر فقط در محل و مکان برنامه می تونست با برنامه کارکنه
+
++ single file
+یعنی فقط هم زمان امکان ترک یک فایل وجود داشت و نه بیشتر
+
+SCCS (= Source Code Control System) in 1972
+Developed by Marc Rochkind
+جزء اولین برنامه ها که کار ورژن کنترل رو به صورت ابتدایی انجام میداد
+ابتدا دز لابراتوار بل - و سپس (فقط) همراه سیستم عامل یونکس
+Unix
+در واقع این برنامه رایگان و در اختیار عموم نبود
+network [ NO ]
+branching [ NO ]
+
+چند مدت بعد گنو هم نسخه معادل ولی رایگان اس سی سی اس رو توسعه داد
+CSSC (? Clone of nonfree SCCS)
+https://www.gnu.org/software/cssc/
+https://directory.fsf.org/wiki/Cssc
+
+حدود ۱۰ سال بعد نسخه بهتر و رایگان آر سی اس
+RCS (= Revision Control System) in 1982
+Developed by Walter F. Tichy at Purdue University.
+network [ NO ]
+branching [ OK ]
+بعد ها این پروژه به جی ان یو پیوست
+
+شکل گیری و فراگیری اینترنت باعث توسعه نسل دوم ورژن کنترل ها شد
+و کمک کرد که ضعف انها - یعنی مقیاس پذیری و مشارکت دیگران - تقریبا حل بشه
+که در پست بعدی مرور می کنیم
+
+بریم برای پست بعدی
