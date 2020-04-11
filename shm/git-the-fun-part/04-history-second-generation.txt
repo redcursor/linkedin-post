@@ -1,0 +1,44 @@
+بعد از عمومی شدن - فراگیر شدن اینترنت نسل جدید ورژن کنترل ها شکل گرفتن
+که بر اساس معماری کلایت - سرور بودند
+
+Second generation (about 198X - 200X)
++ centralized
++ multi-file
++ client-server architecture
+
+نسخه ها قبلی محدود به ویرایش یک فایل بودند
+همچنین مقیاس پذیره نبوده و دیگران به راحتی نمی تونستند در پروژه ها مشارکت کنن
+از جمله برنامه های مشهور این نسل:
+
+CVS (= Concurrent Version System) started at 1984 - released at 1986
+Developed by Dick Grune
+هدف اقای دیک بالابردن بهره وری ار سی اس بود
+RCS (= Revision Control System) in 1982
+همچنین متن باز و به جی ان یو پیوست
+https://nongnu.org/cvs/
+
+با اینکه سی وی اس بهتر از آر سی اس بود اما برای پروژه ها بزرگ مناسب نبود
+سه نفر از ایالت جرجیا ارگانی رو راه انداختن تحت نام : کل-لب نت
+Collab.net
+این سه نفر
+Tim O'Reilly,
+Brian Behlendorf
+Bill Portelli
+
+بودند که احتملا بدونید
+Tim O'Reilly
+بنیان گذار
+oreilly.com/tim/
+هست و اقای
+Brian Behlendorf
+هم از اولین توسعه دهنده های
+Apache Web Server
+هست و یکی از پروژه هاسشون این بود
+SVN (= Apache Subversion Control System) released in 2000
+
+با اینکه اس ول ان از نمونه ها قبلی خیلی بهتر بود
+امانه طوری که کرنل لینوکس رو به صورت بهینه مدیریت کنه
+Linux Kernel
+
+بریم برای پست بعدی
+که چطور کرنل لینوکس بازی رو تغییر داد
