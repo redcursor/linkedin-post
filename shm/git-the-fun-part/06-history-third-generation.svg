@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="650" font-family="Montserrat">
+  <rect x="0" y="0" width="500" height="650" fill="#454545"></rect>
+  
+  <g transform="translate(0,100)"  font-family="Ubuntu" text-anchor="middle" fill="#fff"  font-weight="bold" font-size="28" style="text-shadow: 2px 2px 4px #f00;">
+    <text x="250" y="0" >version control generations 3</text>
+    <line x1="50" x2="450" y1="20" y2="20" fill="#fff" stroke="#FFF" stroke-width="3" ></line>
+  </g>
+  
+  <g transform="translate(0,200)" font-family="ubuntu" font-weight="bold" text-anchor="start" fill="#ff0" font-size="20">
+    <text x="50" y="0" >Third generation (about 20XX - now)</text>
+    <text x="50" y="30" >+ Decentralized</text>
+    <text x="50" y="60" >+ working tree (directories)</text>
+    <text x="50" y="90" >+ independent repository (git)</text>
+  </g>
+  <g transform="translate(0,350)" font-family="ubuntu" font-weight="bold" text-anchor="start" fill="#0cf" font-size="20">
+    <text x="50" y="0" >Monotone in 2003</text>
+    <text x="50" y="30" >Developed by Graydon Hoare</text>
+  </g>
+  
+  <g transform="translate(0,430)" font-family="ubuntu" font-weight="bold" text-anchor="start" fill="#0cf" font-size="20">
+    <text x="50" y="0" >Mercurial in 2005</text>
+    <text x="50" y="30" >Developed by ? Mackall ?</text>
+  </g>
+
+  <g transform="translate(0,520)" font-family="ubuntu" font-weight="bold" text-anchor="start" fill="#0cf" font-size="20">
+    <text x="50" y="0" >Git in 2005</text>
+    <text x="50" y="30" >Developed by Linus Torvalds</text>
+  </g>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="0" refY="3.5" orient="auto">
+      <polygon fill="#000" points="0 0, 5 3.5, 0 7" />
+    </marker>
+    <marker id="diamond" markerWidth="12" markerHeight="12" refX="6" refY="6" >
+      <circle fill="#000" cx="6" cy="6" r="2" stroke="context-stroke" stroke-width="2"/>
+    </marker>
+  </defs>
+  
+  <g transform="translate(110,640)"  font-family="Ubuntu" text-anchor="middle" fill="#c80000"  font-weight="bold" font-size="20">
+    <text x="10" y="0" >Git, the fun part series</text>
+  </g>
+  <text x="320" y="640" font-size="10"  fill="#fff" font-weight="bold">R&amp;D, Shakiba Moshiri, 2020-04-13</text>
+<!--<path fill="none" stroke="#000" stroke-width="3" d="M60,50 v140 q0" marker-start="url(#diamond)" marker-end="url(#arrowhead)"></path>-->
+</svg>
